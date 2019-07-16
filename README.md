@@ -13,6 +13,7 @@ RestfulAPI
 Zurb Foundation
 Handlebars
 NodeMailer
+MapboxAPI
 
 # Collabrators
 
